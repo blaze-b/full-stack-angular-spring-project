@@ -12,7 +12,7 @@
     <groupId>com.mclebtec.demo</groupId>
     <artifactId>user-management-backend</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>crud-application</name>
+    <name>user-management-backend</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
